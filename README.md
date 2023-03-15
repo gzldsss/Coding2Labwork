@@ -22,7 +22,7 @@ After finishing this homework, I have a better understanding of the code. Althou
 
 ## Work3
 
-I don't know why, my python loves this picture!
+I downloaded a picture pack of people wearing masks, and there are about 140 pictures in it. But I don't know why, my python loves this picture!
 
 ![J~3B 8D%ZH@{AZ)QJ(L4IB9](https://user-images.githubusercontent.com/118484191/225368042-858ad9e2-dfea-43c1-8d16-19254a665988.png)
 
